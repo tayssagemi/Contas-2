@@ -1,0 +1,7 @@
+# Nunca versionar dados pessoais
+backup-*.json
+plano*.json
+*.backup.json
+.dev.vars
+.wrangler/
+node_modules/
